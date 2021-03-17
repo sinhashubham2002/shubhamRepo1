@@ -3,3 +3,4 @@ Concepts in Programming Languages
 Introduction to object oriented methodlogy
 Linear Algebra
 Computer Organization
+Software lab
