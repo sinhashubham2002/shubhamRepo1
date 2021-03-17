@@ -1,0 +1,5 @@
+Data Structure and Program Design
+Concepts in Programming Languages
+Introduction to object oriented methodlogy
+Linear Algebra
+Computer Organization
